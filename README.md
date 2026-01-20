@@ -1,4 +1,4 @@
-# 🌍 Exoplanet Transit Animation — KELT-3 b
+# 🌍 Exoplanet Transit Animation
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
@@ -10,7 +10,7 @@
 
 ## 🇪🇸 Descripción
 
-Este repositorio contiene un **Jupyter Notebook en Python** para la **visualización y animación del tránsito del exoplaneta KELT-3 b**, utilizando **datos fotométricos observacionales reales** procesados con **EXOTIC (EXOplanet Transit Interpretation Code)**.
+Este repositorio contiene un **Jupyter Notebook en Python** para la **visualización y animación del tránsito de un transito exoplanetario**, utilizando **datos fotométricos observacionales reales** procesados con **EXOTIC (EXOplanet Transit Interpretation Code)**.
 
 El objetivo principal del proyecto es **vincular directamente la curva de luz observada con una representación geométrica sincronizada del tránsito**, permitiendo una interpretación visual clara de cómo la disminución del flujo estelar se relaciona con la posición proyectada del planeta frente a su estrella anfitriona.
 
