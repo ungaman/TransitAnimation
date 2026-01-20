@@ -60,3 +60,6 @@ This notebook is intended for:
 - Bibliotecas:
   ```bash
   pip install numpy matplotlib 
+
+
+### Version con modelo matematico disponible / Release with mathematical model available
